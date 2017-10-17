@@ -1,11 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/Users/Abhi/Desktop/Various_dev_projects/react-flux-facebook-api-example'
-let g:netrw_dirhist_2='/Users/Abhi/Desktop/Various_dev_projects/redux_tut/voting-server/test'
-let g:netrw_dirhist_3='/Users/abhi'
-let g:netrw_dirhist_4='/Users/abhi/Desktop'
-let g:netrw_dirhist_5='/Users/abhi'
-let g:netrw_dirhist_6='/Users/abhi/Desktop'
-let g:netrw_dirhist_7='/Users/abhi/Desktop/Various_dev_projects'
-let g:netrw_dirhist_8='/Users/abhi/Desktop/Various_dev_projects/CIS121'
-let g:netrw_dirhist_9='/Users/abhi/Desktop/Various_dev_projects/CIS121/CLRS Problems'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/abhi/dotfiles/oh-my-zsh/oh-my-zsh'
+let g:netrw_dirhist_2='/Users/abhi/dotfiles/oh-my-zsh'
+let g:netrw_dirhist_3='/Users/abhi/dotfiles'

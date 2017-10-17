@@ -4,7 +4,6 @@ silent !stty -ixon > /dev/null 2>/dev/null
 set t_Co=256
 set ttyfast
 set background=dark
-colorscheme mustang
 let mapleader=","
 inoremap jk <ESC>
 filetype plugin indent on
@@ -43,6 +42,8 @@ autocmd FileType tex setl updatetime=1
 let g:livepreview_previewer = 'zathura'
 let g:tex_flavor='latex'
 execute pathogen#infect()
+
+colorscheme mustang
 " airline "
 
 let g:airline_theme='jellybeans' 

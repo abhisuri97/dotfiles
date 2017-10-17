@@ -10,6 +10,7 @@ git clone https://github.com/vim-airline/vim-airline.git
 git clone https://github.com/vim-airline/vim-airline-themes.git
 git clone https://github.com/christoomey/vim-tmux-navigator.git
 git clone https://github.com/Valloric/YouCompleteMe.git
+git clone https://github.com/flazz/vim-colorschemes.git colorschemes
 cd ~/.vim/bundle/YouCompleteMe
 git submodule update --init --recursive
 ./install.py --all

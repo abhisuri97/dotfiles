@@ -9,3 +9,5 @@
 	default = simple
 [credential]
 	helper = osxkeychain
+[core]
+	excludesfile = /Users/abhi/.gitignore_global

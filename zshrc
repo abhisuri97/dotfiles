@@ -134,6 +134,16 @@ gauc() {
     git add -u && git commit -m "$message"
   fi
 }
+
+gaucp() {
+  local message=$1
+  if [ $# -eq 1 ]
+  then
+    echo $message;
+    git add -u && git commit -m "$message"
+    git push
+  fi
+}
 zstyle :omz:plugins:ssh-agent identities id_rsa id_github
 
 export NVM_DIR="$HOME/.nvm"

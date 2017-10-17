@@ -16,4 +16,6 @@ chmod +x ./vim-install-plugins.sh
 ./vim-install-plugins.sh
 ```
 
-enjoy :) 
+Things you'll have to edit. 
+
+- in `gitignore` you need to change the credentials.
